@@ -1,2 +1,1 @@
-# taichi
- My own design and CMS
+My own design, layout and CMS. 
